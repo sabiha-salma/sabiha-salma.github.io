@@ -1,5 +1,8 @@
 # main links links
 main:
+#  - title: "Home"
+#    url: /year-archive/
+
   - title: "Academic"
     url: /publications/
 
@@ -9,8 +12,8 @@ main:
   - title: "Awards"
     url: /teaching/    
     
-  - title: "CV"
-    url: /portfolio/
+#  - title: "CV"
+#    url: /portfolio/
             
   - title: "CV"
     url: /cv/
