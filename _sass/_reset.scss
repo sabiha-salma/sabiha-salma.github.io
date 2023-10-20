@@ -132,6 +132,7 @@ textarea {
   margin: 0;
   font-size: 100%;
   vertical-align: middle;
+  Text-align: justify;
 }
 
 button,
@@ -178,4 +179,5 @@ input[type="search"]::-webkit-search-cancel-button {
 textarea {
   overflow: auto; /* remove vertical scrollbar in IE6-9*/
   vertical-align: top; /* readability and alignment cross-browser*/
+  Text-align: justify;
 }
