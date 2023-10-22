@@ -33,15 +33,19 @@
 
 .masthead__menu {
 
-  ul {
-    margin: 0;
-    padding: 0;
-    clear: both;
-    list-style-type: none;
+  .visible-links-left {
+   align: left;
+   margin: 0;
+   padding: 0;
+   clear: both;
+   list-style-type: none;
   }
-
   .visible-links-right {
-    align: right;
+   align: right;
+   margin: 0;
+   padding: 0;
+   clear: both;
+   list-style-type: none;
   }
 }
 
