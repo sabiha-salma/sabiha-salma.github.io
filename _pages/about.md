@@ -24,7 +24,7 @@ Email: ssalma [at] gmu [dot] edu
 * [February] Visiting my motherland Bangladesh for the first time ever since I landed in the USA in 2018!
 
 ##2022
-* [December] Our paper got accepted in 45th IEEE/ACM International Conference on Software Engineering (ICSE'23)! It was great to work on this cool project as a co-author.
+* [December] Our <span style="color:forestgreen;">paper got accepted</span> in 45th IEEE/ACM International Conference on Software Engineering (ICSE'23)! It was great to work on this cool project as a co-author.
 * [August] By the sheer grace of Almighty, me and my husband got blessed with our firstborn, Qamar!!! ♥️
 * [May] Participated in Research Symposium Poster Competition 2022 organized by GMU.
 
