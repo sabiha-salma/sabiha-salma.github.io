@@ -24,8 +24,27 @@ Email: ssalma [at] gmu [dot] edu
 * [February] Visiting my motherland Bangladesh for the first time ever since I landed in the USA in 2018!
 
 ##2022
-* [December] Our <span style="color: forestgreen;">paper got accepted</span> in 45th IEEE/ACM International Conference on Software Engineering (ICSE'23)! It was great to work on this cool project as a co-author.
+* [December] Our paper got accepted in 45th IEEE/ACM International Conference on Software Engineering (ICSE'23)! It was great to work on this cool project as a co-author.
 * [August] By the sheer grace of Almighty, me and my husband got blessed with our firstborn, Qamar!!! ♥️
 * [May] Participated in Research Symposium Poster Competition 2022 organized by GMU.
 
 ##2021
+* [May] Sussessfully defended my comprehensive exam! My talk was entitled as "A Survey on Developer Tools for the Design, Implementation, Testing, and Maintenance of User Interfaces."
+* [May] Joined [Sage Lab](https://www.sagelab.io) as Graduate Research Assistant.
+
+##2020
+* [January] Awarded with travel grant for the prestigious CRA-WP grad cohort.
+* [May] Successfully fulfilled the breadth requirement courses and achieved the initial benchmark as a doctoral student at GMU. 
+* [May] Honored with the Distinguished Graduate Teaching Assistant Award by the Department of Computer Science at GMU.
+* [May] Received the Summer Research Initiation Award from the Department of Computer Science at GMU 
+
+##2019
+* [May] Delivered a presentation on how programming tools support developers. It was a nice first experience giving a talk required for the introductory research course at GMU!
+* [August] Selected as the head Graduate Teaching Assistant responsible for guiding a team comprising four other GTAs.
+* [August] Joined [Shehu Lab](https://cs.gmu.edu/~ashehu/?q=Home) at GMU that conducts research in bioinformatics.
+
+
+##2018
+* [August] It's out of the world kind of sadness to leave my family behind. Yet I'm excited about starting my Ph.D journey in CS department at George Mason University
+* [May] My F1 visa was just issued! USA, here I come!
+* [February] Received fully funded admission offer in the doctoral program from George Mason University! Thanks so much! Grateful to other universities for their admission offer 😇
