@@ -12,12 +12,11 @@ Sabiha Salma is pursuing her PhD in [Computer Science](https://www.cs.gmu.edu) f
 
 ### Contact Info:
 
-Office: Nguyen Engineering Building 4403, Fairfax, VA, 22030
-***
+Office: Nguyen Engineering Building 4403, Fairfax, VA, 22030  
 Email: ssalma [at] gmu [dot] edu
 
 
-#### News
+### News
 
 ### 2023
 * [September] Learned and trained through "Inclusive Teaching for STEM Graduate Students Mini-Course" organized by Stearns Center for Teaching and Learning, George Mason University. Great experience!
