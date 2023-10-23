@@ -8,7 +8,7 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 16px;
+  font-size: 12px;
 
   @include breakpoint($medium) {
     font-size: 18px;
@@ -20,7 +20,7 @@ html {
 
 /* Remove margin */
 
-body { margin: 0; }
+body { margin: 0; text-align: justify;}
 
 /* Selected elements */
 
@@ -78,11 +78,14 @@ a:focus {
 
 /* Remove outline from links */
 
-a:hover,
+a:hover{
+  outline: 0;
+  text-decoration: underline;
+}
+
 a:active {
   outline: 0;
   text-decoration: None;
-  _target: blank;
 }
 
 /* Prevent sub and sup affecting line-height in all browsers */
@@ -132,7 +135,6 @@ textarea {
   margin: 0;
   font-size: 100%;
   vertical-align: middle;
-  Text-align: justify;
 }
 
 button,

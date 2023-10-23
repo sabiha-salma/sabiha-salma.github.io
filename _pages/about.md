@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Sabiha Salma is pursuing her PhD in [Computer Science](https://www.cs.gmu.edu) from [George Mason University (GMU)](https://www.gmu.edu), Virginia. She graduated with her B.Sc. in CS from the Department of Computer Science & Engineering of [University of Dhaka (DU)](https://www.du.ac.bd/body/CSE), Bangladesh in 2014. Sabiha joined GMU in Fall 2018. Currently she is working in [SAGE lab](https://www.sagelab.io) led by [Dr. Kevin Moran](https://www.kpmoran.com), Assistant Professor at University of Central Florida (UCF). Sabiha's research is focused on Automated UI Analysis, HCI Considerations for Developer Tools, and ArtificiaI Intelligence for Software Engineering.
+Sabiha Salma is pursuing her PhD in [Computer Science](https://www.cs.gmu.edu){:target="_blank"} from [George Mason University (GMU)](https://www.gmu.edu){:target="_blank"}, Virginia. She graduated with her B.Sc. in CS from the Department of Computer Science & Engineering of [University of Dhaka (DU)](https://www.du.ac.bd/body/CSE){:target="_blank"}, Bangladesh in 2014. Sabiha joined GMU in Fall 2018. Currently she is working in [SAGE lab](https://www.sagelab.io){:target="_blank"} led by [Dr. Kevin Moran](https://www.kpmoran.com){:target="_blank"}, Assistant Professor at University of Central Florida (UCF). Sabiha's research is focused on Automated UI Analysis, HCI Considerations for Developer Tools, and ArtificiaI Intelligence for Software Engineering.
 
 ### Contact Info:
 
@@ -31,7 +31,7 @@ Email: ssalma [at] gmu [dot] edu
 
 ### 2021
 * [May] Sussessfully defended my comprehensive exam! My talk was entitled as "A Survey on Developer Tools for the Design, Implementation, Testing, and Maintenance of User Interfaces."
-* [May] Joined [Sage Lab](https://www.sagelab.io) as Graduate Research Assistant.
+* [May] Joined [Sage Lab](https://www.sagelab.io){:target="_blank"} as Graduate Research Assistant.
 
 ### 2020
 * [January] Awarded with travel grant for the prestigious CRA-WP grad cohort.
@@ -42,7 +42,7 @@ Email: ssalma [at] gmu [dot] edu
 ### 2019
 * [May] Delivered a presentation on how programming tools support developers. It was a nice first experience giving a talk required for the introductory research course at GMU!
 * [August] Selected as the head Graduate Teaching Assistant responsible for guiding a team comprising four other GTAs.
-* [August] Joined [Shehu Lab](https://cs.gmu.edu/~ashehu/?q=Home) at GMU that conducts research in bioinformatics.
+* [August] Joined [Shehu Lab](https://cs.gmu.edu/~ashehu/?q=Home){:target="_blank"} at GMU that conducts research in bioinformatics.
 
 
 ### 2018
