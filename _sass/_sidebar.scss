@@ -12,7 +12,7 @@
 
   @include clearfix();
   margin-bottom: 1em;
-  Margin-left: 10em;
+
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
@@ -42,7 +42,7 @@
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
-    Text-align: left;
+    text-align: left;
   }
 
   img {
