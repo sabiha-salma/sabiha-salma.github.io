@@ -60,9 +60,9 @@ redirect_from:
 * Provided students with valuable guidance during office hours. 
 * Played a pivotal role in ensuring the quality of student work by designing effective jUnit testers
 * Meticulously graded student projects.
-* Over the course of the COVID-19 pandemic, which extended from 2020 to 2022, I adeptly transitioned to conducting all tasks, from office hours to meetings, online. Leveraging digital platforms allowed for seamless communication and interaction with students and colleagues, ensuring that educational and administrative responsibilities remained uninterrupted while prioritizing safety and social distancing measures. This adaptation showcased my flexibility and commitment to maintaining productivity and accessibility in a remote learning and working environment.
+Over the course of the COVID-19 pandemic, which extended from 2020 to 2022, I adeptly transitioned to conducting all tasks, from office hours to meetings, online. Leveraging digital platforms allowed for seamless communication and interaction with students and colleagues, ensuring that educational and administrative responsibilities remained uninterrupted while prioritizing safety and social distancing measures. This adaptation showcased my flexibility and commitment to maintaining productivity and accessibility in a remote learning and working environment.
 
-###xs Faculty Roles
+### Faculty Roles
 * Prepared comprehensive lesson plans to deliver effective instruction. 
 * Assessed student understanding by grading exams and projects.
 * Provided constructive feedback to aid students' learning journey. 
