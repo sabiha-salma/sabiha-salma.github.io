@@ -11,7 +11,7 @@ redirect_from:
 ## Education
 
 🎓 Ph. D. in Computer Science
-:   George Mason University \| Fall 2018 - Present \| Advisor: [Dr. Kevin Moran](https://www.kpmoran.com)
+:   George Mason University \| Fall 2018 - Present \| Advisor: [Dr. Kevin Moran](https://www.kpmoran.com){:target="_blank"}
 
 🎓 MS in Computer Science
 :   George Mason University \| Fall 2018 - Present
