@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /academic/
 author_profile: true
+redirect_from: 
+  - /md/
+  - /academic.md
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Education
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Ph. D. in Computer Science
+:   George Mason University 
+:   Fall 2018 - Present 
+:   Advisor: [Dr. Kevin Moran](https://www.kpmoran.com)
