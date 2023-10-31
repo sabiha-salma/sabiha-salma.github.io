@@ -16,7 +16,6 @@ Sabiha Salma is pursuing her PhD in [Computer Science](https://www.cs.gmu.edu){:
 Office: Nguyen Engineering Building 4403, Fairfax, VA, 22030  
 Email: ssalma [at] gmu [dot] edu  
 
-
 ---  
 
 ## News
