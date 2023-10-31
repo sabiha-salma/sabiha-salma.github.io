@@ -27,7 +27,7 @@ redirect_from:
     Computer Science Department, Volgenau School of Engineering \| May 2020  
 
 **Government of Bangladesh**
-* **ICT Fellowship**  
+* **ICT Fellowship** _(equivalent of NSF Graduate Research Fellowship)_   
     Ministry of Posts, Telecommunications and IT, Government of Bangladesh \| 2016  
 
 * **National Education Board Scholarship**  
