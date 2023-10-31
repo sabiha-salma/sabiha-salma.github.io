@@ -11,7 +11,7 @@ redirect_from:
 ## Publications
 
 📄 S M Hasan Mansur, **Sabiha Salma**, Damilola Awofisayo, Kevin Moran (2022). AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces. In The 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023), Melbourne, Australia, May 14th-20th, 2023.  
-[PDF](https://arxiv.org/abs/2303.06782){: .btn}[Code](https://github.com/SageSELab/AidUI){: .btn}[Citation](https://drive.google.com/file/d/16HnN_wYAupN6y7G5f56bvRERfJl3g_f4/view?usp=sharing){: .btn}
+[PDF](https://arxiv.org/abs/2303.06782){: .btn} [Code](https://github.com/SageSELab/AidUI){: .btn} [Citation](https://drive.google.com/file/d/16HnN_wYAupN6y7G5f56bvRERfJl3g_f4/view?usp=sharing){: .btn}
 {: .notice}
 
 📄 Shahnila Zaman, **Sabiha Salma** and Shaily Kabir, Eﬃcient Grouping of Tourism Webpages Considering Ratings and Reviews, International Journal of Computer Science, Information Technology, and Security (ISSN 2249-9555), vol.4, no.3, pp.55-60, 2014.  
