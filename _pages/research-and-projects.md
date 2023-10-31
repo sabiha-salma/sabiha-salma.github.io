@@ -24,7 +24,7 @@ redirect_from:
 
 🔹 **George Mason University, Fairfax, Virgina, USA**
 
-* **Graduate Research Assistant \| Summer 2021 – Present \| Sage Lab**  
+* **Graduate Research Assistant \| Sage Lab \| Summer 2021 – Present**  
     Advisor: [Dr. Kevin Moran](https://www.kpmoran.com){:target="_blank"}
 
 * **Independent Research Study \| Spring 2021**  
