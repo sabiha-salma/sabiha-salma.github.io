@@ -57,10 +57,10 @@ redirect_from:
 **Mechanisms of Action Prediction \| November, 2020 \| Python**
 * A Kaggle competition for predicting the mechanisms of actions (MoA) of drugs.
 * Done in collaboration as a course requirement of CS 584 - Theory and Applications of Data Mining
-* [Competition]() \| [Code]()  \| [Presentation]()
+* [Competition](https://www.kaggle.com/c/lish-moa/overview/description){: .btn} \| [Code](https://github.com/sabiha-salma/Mechanisms-of-Action-Prediction){: .btn}  \| [Presentation](https://www.youtube.com/watch?v=kZE40Te_P50){: .btn}
 
 **GolpoGujob \| August 2020 - Septmeber 2020 \| Node.js, Express.js & SocketIO**
 * Designed and developed a real-time chat application.
 * Demonstrated different learned concepts of prototype development, heuristic evolution, interaction design iteration, usability evolution and visual design iteration.
 * Done in collaboration as a course requirement of SWE 632 : User Interface Design & Development
-* [Demonstration]() \| [Code]()
+* [Demonstration](https://drive.google.com/file/d/1TPwI2AuoLMUcTB__NHrbYzCdhrHQjiiK/view?usp=sharing){: .btn} \| [Code](https://github.com/hasanmansur/golpogujob){: .btn}
