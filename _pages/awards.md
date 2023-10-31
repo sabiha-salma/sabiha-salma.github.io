@@ -41,5 +41,5 @@ redirect_from:
 
 ## Travel Grants
 
-* **CRA-W Grad Cohort 2020 Participation and Travel Grant**
+* **CRA-W Grad Cohort 2020 Participation and Travel Grant**  
     Computing Research Association for women \| 2020
