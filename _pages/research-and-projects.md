@@ -25,7 +25,7 @@ redirect_from:
 :    Graduate Research Assistant \| Summer 2021 – Present \| Sage Lab  
 :    Advisor: [Dr. Kevin Moran]()
 
-:    Independent Research Study \| Spring 2021  
+:    Independent Research Study \| Spring 2021
 :    Research Title: Human-Computer Interaction for Building User Interfaces  
 :    Advisor: [Dr. Kevin Moran]()
 
