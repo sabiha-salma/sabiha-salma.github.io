@@ -24,30 +24,30 @@ redirect_from:
 
 🔹 **George Mason University, Fairfax, Virgina, USA**
 
-* Graduate Research Assistant \| Summer 2021 – Present \| Sage Lab  
-    Advisor: [Dr. Kevin Moran]()
+* **Graduate Research Assistant \| Summer 2021 – Present \| Sage Lab**  
+    Advisor: [Dr. Kevin Moran](https://www.kpmoran.com){:target="_blank"}
 
-* Independent Research Study \| Spring 2021
+* **Independent Research Study \| Spring 2021**
     Research Title: Human-Computer Interaction for Building User Interfaces  
-    Advisor: [Dr. Kevin Moran]()
+    Advisor: [Dr. Kevin Moran](https://www.kpmoran.com){:target="_blank"}
 
-* Summer Research \| Summer 2020
+* **Summer Research \| Summer 2020**
     Research Title: Generating Libraries of Novel Fragment Configurations to Aid De-Novo Protein Structure Prediction
-    Advisor: [Dr. Amarda Shehu]()
+    Advisor: [Dr. Amarda Shehu](https://cs.gmu.edu/~ashehu/?q=Home){:target="_blank"}
 
-* Ph.D. Introductory Research \| Spring 2019
+* **Ph.D. Introductory Research \| Spring 2019**
     Research Title: How Programming Tools Support Developers
-    Advisor: [Dr. Thomas LaToza]()  
+    Advisor: [Dr. Thomas LaToza](https://cs.gmu.edu/~latoza){:target="_blank"}
 
 
-🔹 University of Dhaka, Dhaka, Bangladesh
+🔹 **University of Dhaka, Dhaka, Bangladesh**
 
-* Data Science Research Bangladesh \| Fall 2015 – Summer 2016  
-    Research Title: Monitoring Student Engagement through a Video based Learning Platform
+* **Data Science Research Bangladesh \| Fall 2015 – Summer 2016**  
+    Research Title: Monitoring Student Engagement through a Video based Learning Platform  
     Advisor: [Dr. Amin Ahsan Ali]()
 
-* Undergrad Thesis \| Spring 2013 - Spring 2014
-    Research Title: Eﬃcient Grouping of Tourism Webpages Considering Ratings and Reviews
+* **Undergrad Thesis \| Spring 2013 - Spring 2014**
+    Research Title: Eﬃcient Grouping of Tourism Webpages Considering Ratings and Reviews  
     Advisor: [Dr. Shaily Kabir]()  
 
 ---  
