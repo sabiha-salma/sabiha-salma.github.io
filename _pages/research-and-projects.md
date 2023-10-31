@@ -10,19 +10,19 @@ redirect_from:
 
 ## Publications
 
-📄 S M Hasan Mansur, Sabiha Salma, Damilola Awofisayo, Kevin Moran (2022). AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces. In The 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023), Melbourne, Australia, May 14th-20th, 2023.
+📄 S M Hasan Mansur, **Sabiha Salma**, Damilola Awofisayo, Kevin Moran (2022). AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces. In The 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023), Melbourne, Australia, May 14th-20th, 2023.  
+[PDF](https://arxiv.org/abs/2303.06782){: .btn}[Code](https://github.com/SageSELab/AidUI){: .btn}[Citation](https://drive.google.com/file/d/16HnN_wYAupN6y7G5f56bvRERfJl3g_f4/view?usp=sharing){: .btn}
 {: .notice}
 
-📄 Shahnila Zaman*, Sabiha Salma* and Shaily Kabir, Eﬃcient Grouping of Tourism Webpages Considering Ratings and Reviews, International Journal of Computer Science, Information Technology, and Security (ISSN 2249-9555), vol.4, no.3, pp.55-60, 2014.  
+📄 Shahnila Zaman, **Sabiha Salma** and Shaily Kabir, Eﬃcient Grouping of Tourism Webpages Considering Ratings and Reviews, International Journal of Computer Science, Information Technology, and Security (ISSN 2249-9555), vol.4, no.3, pp.55-60, 2014.  
 {: .notice}  
 
 ---  
 
 ## Research Experience
 
-🔹 George Mason University, Fairfax, Virgina, USA
-:    Graduate Research Assistant \| Summer 2021 – Present  
-:    Sage Lab  
+🔹 **George Mason University, Fairfax, Virgina, USA**
+:    Graduate Research Assistant \| Summer 2021 – Present \| Sage Lab  
 :    Advisor: [Dr. Kevin Moran]()
 
 :    Independent Research Study \| Spring 2021  
@@ -51,12 +51,12 @@ redirect_from:
 
 ## Selected Projects
 
-: Mechanisms of Action Prediction \| November, 2020 \| Python
+Mechanisms of Action Prediction \| November, 2020 \| Python
 * A Kaggle competition for predicting the mechanisms of actions (MoA) of drugs.
 * Done in collaboration as a course requirement of CS 584 - Theory and Applications of Data Mining
 * [Competition]() \| [Code]()  \| [Presentation]()
 
-: GolpoGujob \| August 2020 - Septmeber 2020 \| Node.js, Express.js & SocketIO
+GolpoGujob \| August 2020 - Septmeber 2020 \| Node.js, Express.js & SocketIO
 * Designed and developed a real-time chat application.
 * Demonstrated different learned concepts of prototype development, heuristic evolution, interaction design iteration, usability evolution and visual design iteration.
 * Done in collaboration as a course requirement of SWE 632 : User Interface Design & Development
