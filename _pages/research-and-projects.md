@@ -14,7 +14,9 @@ redirect_from:
 [PDF](https://arxiv.org/abs/2303.06782){: .btn}  [Code](https://github.com/SageSELab/AidUI){: .btn}  [Citation](https://drive.google.com/file/d/16HnN_wYAupN6y7G5f56bvRERfJl3g_f4/view?usp=sharing){: .btn}
 {: .notice}
 
-📄 Shahnila Zaman, **Sabiha Salma** and Shaily Kabir, Eﬃcient Grouping of Tourism Webpages Considering Ratings and Reviews, International Journal of Computer Science, Information Technology, and Security (ISSN 2249-9555), vol.4, no.3, pp.55-60, 2014.  
+📄 Shahnila Zaman, **Sabiha Salma*** and Shaily Kabir, Eﬃcient Grouping of Tourism Webpages Considering Ratings and Reviews, International Journal of Computer Science, Information Technology, and Security (ISSN 2249-9555), vol.4, no.3, pp.55-60, 2014.  
+[PDF](https://drive.google.com/file/d/1zxiFTWvVnb1CqsFtYhMorACGaBZm1EBI/view?usp=sharing){: .btn}
+*equal contributions*
 {: .notice}  
 
 ---  
@@ -23,46 +25,42 @@ redirect_from:
 
 🔹 **George Mason University, Fairfax, Virgina, USA**
 
-:    Graduate Research Assistant \| Summer 2021 – Present \| Sage Lab  
-:    Advisor: [Dr. Kevin Moran]()
-{: .notice}
+    Graduate Research Assistant \| Summer 2021 – Present \| Sage Lab  
+        Advisor: [Dr. Kevin Moran]()
 
-:    Independent Research Study \| Spring 2021
-:    Research Title: Human-Computer Interaction for Building User Interfaces  
-:    Advisor: [Dr. Kevin Moran]()
-{: .notice}
+    Independent Research Study \| Spring 2021
+        Research Title: Human-Computer Interaction for Building User Interfaces  
+        Advisor: [Dr. Kevin Moran]()
 
-:    Summer Research \| Summer 2020
-:    Research Title: Generating Libraries of Novel Fragment Configurations to Aid De-Novo Protein Structure Prediction
-:    Advisor: [Dr. Amarda Shehu]()
-{: .notice}
+    Summer Research \| Summer 2020
+        Research Title: Generating Libraries of Novel Fragment Configurations to Aid De-Novo Protein Structure Prediction
+        Advisor: [Dr. Amarda Shehu]()
 
-:    Ph.D. Introductory Research \| Spring 2019
-:    Research Title: How Programming Tools Support Developers
-:    Advisor: [Dr. Thomas LaToza]()  
-{: .notice}
+    Ph.D. Introductory Research \| Spring 2019
+        Research Title: How Programming Tools Support Developers
+        Advisor: [Dr. Thomas LaToza]()  
+
 
 🔹 University of Dhaka, Dhaka, Bangladesh
 
-:    Data Science Research Bangladesh \| Fall 2015 – Summer 2016
-:    Research Title: Monitoring Student Engagement through a Video based Learning Platform
-:    Advisor: [Dr. Amin Ahsan Ali]()
-{: .notice}
+    Data Science Research Bangladesh \| Fall 2015 – Summer 2016
+        Research Title: Monitoring Student Engagement through a Video based Learning Platform
+        Advisor: [Dr. Amin Ahsan Ali]()
 
-:    Undergrad Thesis \| Spring 2013 - Spring 2014
-:    Research Title: Eﬃcient Grouping of Tourism Webpages Considering Ratings and Reviews
-:    Advisor: [Dr. Shaily Kabir]()  
-{: .notice}
+    Undergrad Thesis \| Spring 2013 - Spring 2014
+        Research Title: Eﬃcient Grouping of Tourism Webpages Considering Ratings and Reviews
+        Advisor: [Dr. Shaily Kabir]()  
+
 ---  
 
 ## Selected Projects
 
-Mechanisms of Action Prediction \| November, 2020 \| Python
+**Mechanisms of Action Prediction \| November, 2020 \| Python**
 * A Kaggle competition for predicting the mechanisms of actions (MoA) of drugs.
 * Done in collaboration as a course requirement of CS 584 - Theory and Applications of Data Mining
 * [Competition]() \| [Code]()  \| [Presentation]()
 
-GolpoGujob \| August 2020 - Septmeber 2020 \| Node.js, Express.js & SocketIO
+**GolpoGujob \| August 2020 - Septmeber 2020 \| Node.js, Express.js & SocketIO**
 * Designed and developed a real-time chat application.
 * Demonstrated different learned concepts of prototype development, heuristic evolution, interaction design iteration, usability evolution and visual design iteration.
 * Done in collaboration as a course requirement of SWE 632 : User Interface Design & Development
