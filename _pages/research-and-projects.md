@@ -27,17 +27,17 @@ redirect_from:
 * **Graduate Research Assistant \| Summer 2021 – Present \| Sage Lab**  
     Advisor: [Dr. Kevin Moran](https://www.kpmoran.com){:target="_blank"}
 
-* **Independent Research Study \| Spring 2021**
+* **Independent Research Study \| Spring 2021**  
     Research Title: Human-Computer Interaction for Building User Interfaces  
     Advisor: [Dr. Kevin Moran](https://www.kpmoran.com){:target="_blank"}
 
-* **Summer Research \| Summer 2020**
+* **Summer Research \| Summer 2020**  
     Research Title: Generating Libraries of Novel Fragment Configurations to Aid De-Novo Protein Structure Prediction
     Advisor: [Dr. Amarda Shehu](https://cs.gmu.edu/~ashehu/?q=Home){:target="_blank"}
 
-* **Ph.D. Introductory Research \| Spring 2019**
+* **Ph.D. Introductory Research \| Spring 2019**  
     Research Title: How Programming Tools Support Developers
-    Advisor: [Dr. Thomas LaToza](https://cs.gmu.edu/~latoza){:target="_blank"}
+    Advisor: [Dr. Thomas LaToza](https://cs.gmu.edu/~tlatoza/){:target="_blank"}
 
 
 🔹 **University of Dhaka, Dhaka, Bangladesh**
@@ -46,7 +46,7 @@ redirect_from:
     Research Title: Monitoring Student Engagement through a Video based Learning Platform  
     Advisor: [Dr. Amin Ahsan Ali](http://www.cse.iub.edu.bd/faculties/53){:target="_blank"}
 
-* **Undergrad Thesis \| Spring 2013 - Spring 2014**
+* **Undergrad Thesis \| Spring 2013 - Spring 2014**  
     Research Title: Eﬃcient Grouping of Tourism Webpages Considering Ratings and Reviews  
     Advisor: [Dr. Shaily Kabir](https://www.du.ac.bd/body/faculty_details/CSE/1779){:target="_blank"}  
 
@@ -57,10 +57,10 @@ redirect_from:
 **Mechanisms of Action Prediction \| November, 2020 \| Python**
 * A Kaggle competition for predicting the mechanisms of actions (MoA) of drugs.
 * Done in collaboration as a course requirement of CS 584 - Theory and Applications of Data Mining
-* [Competition](https://www.kaggle.com/c/lish-moa/overview/description){: .btn} \| [Code](https://github.com/sabiha-salma/Mechanisms-of-Action-Prediction){: .btn}  \| [Presentation](https://www.youtube.com/watch?v=kZE40Te_P50){: .btn}
+* [Competition](https://www.kaggle.com/c/lish-moa/overview/description){: .btn}   [Code](https://github.com/sabiha-salma/Mechanisms-of-Action-Prediction){: .btn}   [Presentation](https://www.youtube.com/watch?v=kZE40Te_P50){: .btn}
 
 **GolpoGujob \| August 2020 - Septmeber 2020 \| Node.js, Express.js & SocketIO**
 * Designed and developed a real-time chat application.
 * Demonstrated different learned concepts of prototype development, heuristic evolution, interaction design iteration, usability evolution and visual design iteration.
 * Done in collaboration as a course requirement of SWE 632 : User Interface Design & Development
-* [Demonstration](https://drive.google.com/file/d/1TPwI2AuoLMUcTB__NHrbYzCdhrHQjiiK/view?usp=sharing){: .btn} \| [Code](https://github.com/hasanmansur/golpogujob){: .btn}
+* [Demonstration](https://drive.google.com/file/d/1TPwI2AuoLMUcTB__NHrbYzCdhrHQjiiK/view?usp=sharing){: .btn}   [Code](https://github.com/hasanmansur/golpogujob){: .btn}
