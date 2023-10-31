@@ -44,11 +44,11 @@ redirect_from:
 
 * **Data Science Research Bangladesh \| Fall 2015 – Summer 2016**  
     Research Title: Monitoring Student Engagement through a Video based Learning Platform  
-    Advisor: [Dr. Amin Ahsan Ali]()
+    Advisor: [Dr. Amin Ahsan Ali](http://www.cse.iub.edu.bd/faculties/53){:target="_blank"}
 
 * **Undergrad Thesis \| Spring 2013 - Spring 2014**
     Research Title: Eﬃcient Grouping of Tourism Webpages Considering Ratings and Reviews  
-    Advisor: [Dr. Shaily Kabir]()  
+    Advisor: [Dr. Shaily Kabir](https://www.du.ac.bd/body/faculty_details/CSE/1779){:target="_blank"}  
 
 ---  
 
