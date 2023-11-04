@@ -15,8 +15,7 @@ redirect_from:
 {: .notice}
 
 📄 Shahnila Zaman, **Sabiha Salma*** and Shaily Kabir, Eﬃcient Grouping of Tourism Webpages Considering Ratings and Reviews, International Journal of Computer Science, Information Technology, and Security (ISSN 2249-9555), vol.4, no.3, pp.55-60, 2014.  
-[PDF](https://drive.google.com/file/d/1zxiFTWvVnb1CqsFtYhMorACGaBZm1EBI/view?usp=sharing){: .btn}  
-eual contribution*
+[PDF](https://drive.google.com/file/d/1zxiFTWvVnb1CqsFtYhMorACGaBZm1EBI/view?usp=sharing){: .btn}    _eual contribution*_
 {: .notice}  
 
 ---  
