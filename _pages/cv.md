@@ -9,5 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## [Download my CV](https://drive.google.com/file/d/1vcQPp6DAApAtJGClsJ-v7erv4_vUyDi3/view?usp=sharing){: .btn}  
-_last updated 2022_
+If file does not load below, click [here](https://cseveren.github.io/files/Severen_CV_202310.pdf) to download.
+
+<embed src="{{ site.baseurl }}/files/cv.pdf" width="650" height="800" type='application/pdf'>
