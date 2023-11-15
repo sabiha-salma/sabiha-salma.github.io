@@ -20,7 +20,8 @@ Email: ssalma [at] gmu [dot] edu
 
 ## News
 
-* [Oct.2023] Participated in a 3MT competition hosted by VA-WHPC in the format of Student Lightning Talk and gathered a unique and valuable experience.
+* [Nov.2023] I will serve as a Junior PC Member for the Mining Software Repositories 2024 (MSR 2024)!
+* [Oct.2023] Participated in a 3MT competition hosted by VA-WHPC in the format of Student Lightning Talk and gathered a unique and valuable experience!
 * [Sep.2023] Learned and trained through "Inclusive Teaching for STEM Graduate Students Mini-Course" organized by Stearns Center for Teaching and Learning, George Mason University. Great experience!
 * [Feb.2023] Visiting my motherland Bangladesh for the first time ever since I landed in the USA in 2018!
 * [Dec.2022] Our <span style="color:forestgreen;">paper got accepted</span> in 45th IEEE/ACM International Conference on Software Engineering (ICSE'23)! It was great to work on this cool project as a co-author.
