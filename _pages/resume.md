@@ -11,4 +11,4 @@ redirect_from:
 
 If file does not load below, click [here](https://sabiha-salma.github.io/files/resume.pdf) to download.
 
-<embed src="{{ site.baseurl }}/files/cv.pdf" width="650" height="800" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/resume.pdf" width="650" height="800" type='application/pdf'>
