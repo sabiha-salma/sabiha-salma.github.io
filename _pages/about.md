@@ -19,8 +19,8 @@ Email: ssalma [at] gmu [dot] edu
 ---  
 
 ## News
-* [Jan.2024] Our paper entitled *GuiEvo: Automated Evolution of Mobile App UIs* <span style="color:forestgreen;"> got accepted</span> in 21st International Conference on Mining Software Repositories (MSR'24)!
-* [Jan.2024] Our paper entitled *Automating GUI-based Test Oracles for Mobile Apps* <span style="color:forestgreen;"> got accepted</span> in 21st International Conference on Mining Software Repositories (MSR'24)!
+* [Jan.2024] Our paper entitled **GuiEvo: Automated Evolution of Mobile App UIs** <span style="color:forestgreen;"> got accepted</span> in 21st International Conference on Mining Software Repositories (MSR'24)!
+* [Jan.2024] Our paper entitled **Automating GUI-based Test Oracles for Mobile Apps** <span style="color:forestgreen;"> got accepted</span> in 21st International Conference on Mining Software Repositories (MSR'24)!
 * [Nov.2023] I will serve as a Junior PC Member for the Mining Software Repositories 2024 (MSR 2024)!
 * [Oct.2023] Participated in a 3MT competition hosted by VA-WHPC in the format of Student Lightning Talk and gathered a unique and valuable experience!
 * [Sep.2023] Learned and trained through "Inclusive Teaching for STEM Graduate Students Mini-Course" organized by Stearns Center for Teaching and Learning, George Mason University. Great experience!
