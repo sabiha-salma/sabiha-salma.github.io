@@ -25,7 +25,7 @@ Email: ssalma [at] gmu [dot] edu
 * [Oct.2023] Participated in a 3MT competition hosted by VA-WHPC in the format of Student Lightning Talk and gathered a unique and valuable experience!
 * [Sep.2023] Learned and trained through "Inclusive Teaching for STEM Graduate Students Mini-Course" organized by Stearns Center for Teaching and Learning, George Mason University. Great experience!
 * [Feb.2023] Visiting my motherland Bangladesh for the first time ever since I landed in the USA in 2018!
-* [Dec.2022] Our paper entitled *AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces* <span style="color:forestgreen;">paper got accepted</span> in 45th IEEE/ACM International Conference on Software Engineering (ICSE'23)!
+* [Dec.2022] Our paper entitled **AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces** <span style="color:forestgreen;">paper got accepted</span> in 45th IEEE/ACM International Conference on Software Engineering (ICSE'23)!
 * [Aug.2022] By the sheer grace of Almighty, me and my husband got blessed with our firstborn, Qamar!!! ♥️
 * [May 2022] Participated in Research Symposium Poster Competition 2022 organized by GMU.
 * [May 2021] Received Outstanding Graduate Teaching Assistant Award from the Department of Computer Science at GMU. 🏆
