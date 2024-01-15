@@ -10,15 +10,15 @@ redirect_from:
 
 ## Publications
 
-📄 **Sabiha Salma**, S M Hasan Mansur, Yule Zhang, and Kevin Moran. AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces. In The 21st International Conference on Mining Software Repositories (MSR 2024), Lisbon, Portugal, April 15th-16th, 2024.  
+📄 **Sabiha Salma**, S M Hasan Mansur, Yule Zhang, and Kevin Moran, "GuiEvo: Automated Evolution of Mobile App UIs", in proceedings of the 21st International Conference on Mining Software Repositories (MSR 2024), Lisbon, Portugal, April 15th-16th, 2024.  
 [PDF](https://static1.squarespace.com/static/53065911e4b0cca0183fc14a/t/5ded6c7f9778c378d7cf4a1e/1575840895324/Preprint+Coming+Soon.pdf){: .btn}  [Code](){: .btn}  [Citation](){: .btn}
 {: .notice}
 
-📄  Kesina Baral, Jack Johnson, Junayed Mahmud, **Sabiha Salma**, Mattia Fazzini, Julia Rubin, Jeff Offutt, and Kevin Moran. In The 21st International Conference on Mining Software Repositories (MSR 2024), Lisbon, Portugal, April 15th-16th, 2024.  
+📄  Kesina Baral, Jack Johnson, Junayed Mahmud, **Sabiha Salma**, Mattia Fazzini, Julia Rubin, Jeff Offutt, and Kevin Moran, "Automating GUI-based Test Oracles for Mobile Apps", in proceedings of the 21st International Conference on Mining Software Repositories (MSR 2024), Lisbon, Portugal, April 15th-16th, 2024.  
 [PDF](https://static1.squarespace.com/static/53065911e4b0cca0183fc14a/t/5ded6c7f9778c378d7cf4a1e/1575840895324/Preprint+Coming+Soon.pdf){: .btn}  [Code](){: .btn}  [Citation](){: .btn}
 {: .notice}
 
-📄 S M Hasan Mansur, **Sabiha Salma**, Damilola Awofisayo, and Kevin Moran. AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces. In The 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023), Melbourne, Australia, May 14th-20th, 2023.  
+📄 S M Hasan Mansur, **Sabiha Salma**, Damilola Awofisayo, and Kevin Moran, "AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces," in proceedings of the 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023), Melbourne, Australia, May 14th-20th, 2023.  
 [PDF](https://arxiv.org/abs/2303.06782){: .btn}  [Code](https://github.com/SageSELab/AidUI){: .btn}  [Citation](https://drive.google.com/file/d/16HnN_wYAupN6y7G5f56bvRERfJl3g_f4/view?usp=sharing){: .btn}
 {: .notice}
 
