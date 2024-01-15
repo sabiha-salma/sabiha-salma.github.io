@@ -19,19 +19,21 @@ Email: ssalma [at] gmu [dot] edu
 ---  
 
 ## News
-
+* [Jan.2024] Our paper entitled *GuiEvo: Automated Evolution of Mobile App UIs* <span style="color:forestgreen;"> got accepted</span> in 21st International Conference on Mining Software Repositories (MSR'24)!
+* [Jan.2024] Our paper entitled *Automating GUI-based Test Oracles for Mobile Apps* <span style="color:forestgreen;"> got accepted</span> in 21st International Conference on Mining Software Repositories (MSR'24)!
 * [Nov.2023] I will serve as a Junior PC Member for the Mining Software Repositories 2024 (MSR 2024)!
 * [Oct.2023] Participated in a 3MT competition hosted by VA-WHPC in the format of Student Lightning Talk and gathered a unique and valuable experience!
 * [Sep.2023] Learned and trained through "Inclusive Teaching for STEM Graduate Students Mini-Course" organized by Stearns Center for Teaching and Learning, George Mason University. Great experience!
 * [Feb.2023] Visiting my motherland Bangladesh for the first time ever since I landed in the USA in 2018!
-* [Dec.2022] Our <span style="color:forestgreen;">paper got accepted</span> in 45th IEEE/ACM International Conference on Software Engineering (ICSE'23)! It was great to work on this cool project as a co-author.
+* [Dec.2022] Our paper entitled *AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces* <span style="color:forestgreen;">paper got accepted</span> in 45th IEEE/ACM International Conference on Software Engineering (ICSE'23)!
 * [Aug.2022] By the sheer grace of Almighty, me and my husband got blessed with our firstborn, Qamar!!! ♥️
 * [May 2022] Participated in Research Symposium Poster Competition 2022 organized by GMU.
+* [May 2021] Received Outstanding Graduate Teaching Assistant Award from the Department of Computer Science at GMU. 🏆
 * [May 2021] Sussessfully defended my comprehensive exam! My talk was entitled as "A Survey on Developer Tools for the Design, Implementation, Testing, and Maintenance of User Interfaces."
 * [May 2021] Joined [Sage Lab](https://www.sagelab.io){:target="_blank"} as Graduate Research Assistant.
 * [May 2020] Successfully fulfilled the breadth requirement courses and achieved the initial benchmark as a doctoral student at GMU. 
 * [May 2020] Received Distinguished Graduate Teaching Assistant Award from the Department of Computer Science at GMU. 🏆
-* [May 2020] Received the Summer Research Initiation Award from the Department of Computer Science at GMU 
+* [May 2020] Received the Summer Research Initiation Award from the Department of Computer Science at GMU. 🏆
 * [Jan.2020] Awarded with travel grant for the prestigious CRA-WP grad cohort.
 * [Aug.2019] Selected as the head Graduate Teaching Assistant and lead a team comprising four other GTAs.
 * [Aug.2019] Joined [Shehu Lab](https://cs.gmu.edu/~ashehu/?q=Home){:target="_blank"} at GMU that conducts research in bioinformatics.
