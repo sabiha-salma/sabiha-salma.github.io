@@ -32,8 +32,8 @@ redirect_from:
 
 🔹 **George Mason University, Fairfax, Virgina, USA**
 
-* **Ongoing Collaborative Research \| George Mason University \| Fall 2025 – Present**
-    Research Title: The Impact of Agentic AI-based Time Management Tools on Students Academic Success
+* **Ongoing Collaborative Research \| George Mason University \| Fall 2025 – Present**  
+    Research Title: The Impact of Agentic AI-based Time Management Tools on Students Academic Success  
     Faculty Members: [Dr. Zhichong Lu](https://luzhc.github.io/){:target="_blank"}, Dr. Ghada Adam Abdelmoumin, Dr. Shahnaz Kamberi
 
 * **Graduate Research Assistant \| Sage Lab \| Summer 2021 – Summer 2024**  
