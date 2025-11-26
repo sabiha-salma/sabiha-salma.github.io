@@ -10,14 +10,14 @@ redirect_from:
 
 ## Education
 
-🎓 Ph. D. in Computer Science
-:   George Mason University \| Fall 2018 - Present \| Advisor: [Dr. Kevin Moran](https://www.kpmoran.com){:target="_blank"}
+🎓 MS in Software Engineering
+:   George Mason University \| Fall 2025 - Present
 
 🎓 MS in Computer Science
-:   George Mason University \| Fall 2018 - Present
+:   George Mason University \| Fall 2024 \| Advisor: [Dr. Kevin Moran](https://www.kpmoran.com){:target="_blank"}
 
 🧑‍🎓 BS in Computer Science
-:   University of Dhaka \| 2010 - 2014
+:   University of Dhaka \| Spring 2014
 
 ---  
 
@@ -25,6 +25,7 @@ redirect_from:
 
 * Software Engineering
 * Human Computer Interaction
+* Artificial Intelligence
 * Computer Vision
 * Teaching
 

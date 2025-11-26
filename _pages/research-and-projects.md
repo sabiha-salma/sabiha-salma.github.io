@@ -32,21 +32,16 @@ redirect_from:
 
 🔹 **George Mason University, Fairfax, Virgina, USA**
 
-* **Graduate Research Assistant \| Sage Lab \| Summer 2021 – Present**  
+* **Ongoing Collaborative Research \| George Mason University \| Fall 2025 – Present**
+    Research Title: The Impact of Agentic AI-based Time Management Tools on Students Academic Success
+    Faculty Members: [Dr. Zhichong Lu](https://luzhc.github.io/){:target="_blank"}, Dr. Ghada Adam Abdelmoumin, Dr. Shahnaz Kamberi
+
+* **Graduate Research Assistant \| Sage Lab \| Summer 2021 – Summer 2024**  
     Advisor: [Dr. Kevin Moran](https://www.kpmoran.com){:target="_blank"}
 
 * **Independent Research Study \| Spring 2021**  
     Research Title: Human-Computer Interaction for Building User Interfaces  
     Advisor: [Dr. Kevin Moran](https://www.kpmoran.com){:target="_blank"}
-
-* **Summer Research \| Summer 2020**  
-    Research Title: Generating Libraries of Novel Fragment Configurations to Aid De-Novo Protein Structure Prediction
-    Advisor: [Dr. Amarda Shehu](https://cs.gmu.edu/~ashehu/?q=Home){:target="_blank"}
-
-* **Ph.D. Introductory Research \| Spring 2019**  
-    Research Title: How Programming Tools Support Developers
-    Advisor: [Dr. Thomas LaToza](https://cs.gmu.edu/~tlatoza/){:target="_blank"}
-
 
 🔹 **University of Dhaka, Dhaka, Bangladesh**
 
