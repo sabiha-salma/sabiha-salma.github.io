@@ -35,13 +35,7 @@ Email: ssalma [at] gmu [dot] edu
 * [May 2021] Received Outstanding Graduate Teaching Assistant Award from the Department of Computer Science at GMU. 🏆
 * [May 2021] Sussessfully defended my comprehensive exam! My talk was entitled as "A Survey on Developer Tools for the Design, Implementation, Testing, and Maintenance of User Interfaces."
 * [May 2021] Joined [Sage Lab](https://www.sagelab.io){:target="_blank"} as Graduate Research Assistant.
-<!--* [May 2020] Successfully fulfilled the breadth requirement courses and achieved the initial benchmark as a doctoral student at GMU. -->
 * [May 2020] Received Distinguished Graduate Teaching Assistant Award from the Department of Computer Science at GMU. 🏆
 * [May 2020] Received the Summer Research Initiation Award from the Department of Computer Science at GMU. 🏆
 * [Jan.2020] Awarded with travel grant for the prestigious CRA-WP grad cohort.
 * [Aug.2019] Selected as the head Graduate Teaching Assistant and lead a team comprising four other GTAs.
-<!--* [Aug.2019] Joined [Shehu Lab](https://cs.gmu.edu/~ashehu/?q=Home){:target="_blank"} at GMU that conducts research in bioinformatics.
-* [May 2019] Delivered a presentation on how programming tools support developers. It was a nice first experience giving a talk required for the introductory research course at GMU!
-* [Aug.2018] It's out of the world kind of sadness to leave my family behind. Yet I'm excited about starting my Ph.D journey in CS department at George Mason University
-* [May 2018] My F1 visa was just issued! USA, here I come!
-* [Feb.2018] Received fully funded admission offer in the doctoral program from George Mason University! Thanks so much! Grateful to other universities for their admission offer 😇-->
